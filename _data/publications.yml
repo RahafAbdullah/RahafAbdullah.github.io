@@ -15,6 +15,6 @@ main:
 
   - title: "RC-NVM: Recovery-Aware Reliability-Security Co-Design for Non-Volatile Memories"
     authors: Kazi Abu Zubair, <strong>Rahaf Abdullah</strong>, David Mohaisen, Amro Awad
-    conference_short: TDSC
+    conference_short: TDSC 
     conference: IEEE Transactions on Dependable and Secure Computing <strong>(TDSC)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/document/10172078
