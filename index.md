@@ -5,7 +5,6 @@ layout: homepage
 ## About Me
 I am a third-year Ph.D. student at North Carolina State University, advised by Dr. Amro Awad and Dr. Huiyang Zhou. 
 
-## News
 
 ## Research Interests
 
