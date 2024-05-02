@@ -5,21 +5,21 @@ main:
     conference_short: HPCA
     conference: IEEE Symposium on High-Performance Computer Architecture <strong>(HPCA)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/document/10476444 
-    code: 
-    bibtex: 
-    image:
-    notes:
+    code: wd
+    bibtex: we 
+    image: ff
+    notes: ffde
 
   - title: Plutus: Bandwidth-Efficient Memory Security for GPUs
     authors: <strong>Rahaf Abdullah</strong>, Huiyang Zhou, Amro Awad
     conference_short: HPCA
     conference: IEEE Symposium on High-Performance Computer Architecture <strong>(HPCA)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/document/10071100
-    code: 
-    page: 
-    bibtex: 
-    notes: 
-    image: 
+    code: fev
+    page: ff
+    bibtex: fd
+    notes: df
+    image: vd
 
   - title: RC-NVM: Recovery-Aware Reliability-Security Co-Design for Non-Volatile Memories
     authors: Kazi Abu Zubair, <strong>Rahaf Abdullah</strong>, David Mohaisen, Amro Awad
