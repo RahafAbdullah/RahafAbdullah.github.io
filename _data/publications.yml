@@ -1,22 +1,28 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Salus: Efficient Security Support for CXL-Expanded GPU Memory
+    authors: <strong>Rahaf Abdullah</strong>, Hyokeun Lee, Huiyang Zhou, Amro Awad
+    conference_short: HPCA
+    conference: IEEE Symposium on High-Performance Computer Architecture <strong>(HPCA)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/document/10476444 
+    code: 
+    bibtex: 
+    image:
+    notes:
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Plutus: Bandwidth-Efficient Memory Security for GPUs
+    authors: <strong>Rahaf Abdullah</strong>, Huiyang Zhou, Amro Awad
+    conference_short: HPCA
+    conference: IEEE Symposium on High-Performance Computer Architecture <strong>(HPCA)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/document/10071100
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+
+  - title: RC-NVM: Recovery-Aware Reliability-Security Co-Design for Non-Volatile Memories
+    authors: Kazi Abu Zubair, <strong>Rahaf Abdullah</strong>, David Mohaisen, Amro Awad
+    conference_short: TDSC
+    conference: IEEE Transactions on Dependable and Secure Computing <strong>(TDSC)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/document/10172078
